@@ -10,6 +10,7 @@
 <body>
     <div class="container">
         <a href="add.php" class="Btn_add"> Create</a>
+        <h4> Products List </h4>
         
         <table>
             <tr id="items">

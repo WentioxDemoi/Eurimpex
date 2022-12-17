@@ -15,7 +15,6 @@ body {
 }
 .Btn_add {
     width: fit-content;
-    margin-bottom:20px;
     margin-left: 60vh;
     background-color: #2bc48a;
     padding: 5px 20px;
@@ -26,9 +25,12 @@ body {
     border-radius: 6px;
     text-decoration: 0;
 }
-.Btn_add img {
-    margin-right: 5px;
-    height: 20px;
+
+h4 {
+    font-size: 24px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: 0;
 }
 
 
